@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad-dev841&show_icons=true&theme=gotham" alt="Asad's GitHub Stats" />
-</p>
+Welcome to my GitHub profile! I am an Intermediate Computer Science (ICS) student passionate about software development, currently focusing on mastering programming concepts and building projects from the ground up.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -21,4 +19,3 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asad-sohail-4ba01b360/)
 - 🖥️ [Personal Portfolio](https://asad-pixel-1608.base44.app/)
-  
