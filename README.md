@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## Hi there 👋
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Asad-dev841&show_icons=true&theme=gotham" alt="Asad's GitHub Stats" />
 </p>
@@ -23,4 +21,4 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/asad-sohail-4ba01b360/)
 - 🖥️ [Personal Portfolio](https://asad-pixel-1608.base44.app/)
--
+  
